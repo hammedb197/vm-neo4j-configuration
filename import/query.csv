@@ -1,0 +1,25 @@
+categoryLabel,symptom,symptomLabel
+COVID-19,http://www.wikidata.org/entity/Q86,headache
+COVID-19,http://www.wikidata.org/entity/Q5445,anemia
+COVID-19,http://www.wikidata.org/entity/Q9690,fatigue
+COVID-19,http://www.wikidata.org/entity/Q35805,cough
+COVID-19,http://www.wikidata.org/entity/Q38933,fever
+COVID-19,http://www.wikidata.org/entity/Q40878,diarrhea
+COVID-19,http://www.wikidata.org/entity/Q105688,hypoxia
+COVID-19,http://www.wikidata.org/entity/Q167844,conjunctivitis
+COVID-19,http://www.wikidata.org/entity/Q183425,abdominal pain
+COVID-19,http://www.wikidata.org/entity/Q186889,nausea
+COVID-19,http://www.wikidata.org/entity/Q188008,dyspnea
+COVID-19,http://www.wikidata.org/entity/Q254327,anorexia
+COVID-19,http://www.wikidata.org/entity/Q344873,acute respiratory distress syndrome
+COVID-19,http://www.wikidata.org/entity/Q468433,anosmia
+COVID-19,http://www.wikidata.org/entity/Q474959,myalgia
+COVID-19,http://www.wikidata.org/entity/Q485831,lymphopenia
+COVID-19,http://www.wikidata.org/entity/Q576349,brain diseases
+COVID-19,http://www.wikidata.org/entity/Q606216,ageusia
+COVID-19,http://www.wikidata.org/entity/Q647099,hemoptysis
+COVID-19,http://www.wikidata.org/entity/Q767485,respiratory failure
+COVID-19,http://www.wikidata.org/entity/Q2260058,chills
+COVID-19,http://www.wikidata.org/entity/Q2603200,viral pneumonia
+COVID-19,http://www.wikidata.org/entity/Q3245488,nasal congestion
+COVID-19,http://www.wikidata.org/entity/Q3508755,influenza like illness
